@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #326b84;
 }
 .card {
     margin-top: 50px;
@@ -13,10 +13,10 @@ body {
     margin-bottom: 20px;
 }
 .btn-tiktok {
-    background-color: #e1306c;
-    color: white;
+    background-color: #0d112cc4;
+    color: blue;
 }
 .btn-tiktok:hover {
-    background-color: rgb(255, 165, 0);
+    background-color: rgba(0, 0, 0, 0.823);
     color: rgb(51, 49, 47);
 }
