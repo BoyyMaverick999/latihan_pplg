@@ -17,6 +17,6 @@ body {
     color: white;
 }
 .btn-tiktok:hover {
-    background-color: #c1275b;
-    color: purpel;
+    background-color: rgb(255, 165, 0);
+    color: rgb(51, 49, 47);
 }
